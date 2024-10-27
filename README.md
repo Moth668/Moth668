@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Moth668
 - 👀 I’m interested in Cars, Coding, & Coffee
-- 🌱 I’m currently learning GitHub
+- 🌱 I’m currently learning Typescript, OpenAI, & React
 - 💞️ I’m looking to collaborate on developing an app
 - 📫 How to reach me: comment, message, email
 - ⚡ Fun fact: Ants don’t have lungs.
