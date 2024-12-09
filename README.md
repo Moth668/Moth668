@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Moth668
-- 👀 I’m interested in Cars, Coding, & Coffee
-- 🌱 I’m currently learning Typescript, OpenAI, & React
-- 💞️ I’m looking to collaborate on developing an app
+- 👋 Hi, I am Timothy Rice
+- 🌱 I am currently learning Typescript, OpenAI, MongoDB, React & Much More
+- 📖 I am currently enrolled in EdX Programming Bootcamp through Washington University in St. Louis
+- 💞️ I am looking for an emerging professional role in software development
+- 👀 I am interested in Cars, Coding, & Coffee
 - 📫 How to reach me: comment, message, email
 - ⚡ Fun fact: Ants don’t have lungs.
 
