@@ -1,5 +1,5 @@
 - 👋 Hi, I am Timothy Rice
-- 🌱 I am currently learning Javascript, Typescript, OpenAI, MongoDB, React, GraphQL, Cypress, GitHub Actions, & Much More
+- 🌱 I am currently learning Python, Javascript, Typescript, OpenAI, MongoDB, React, GraphQL, PostgreSQL, Cypress, GitHub Actions, & Much More
 - 📖 I am currently enrolled in EdX Programming Bootcamp through Washington University in St. Louis (course completion date February 6, 2025)
 - 💞️ I am looking for an emerging professional role in software development
 - 👀 I am interested in Cars, Coding, & Coffee
