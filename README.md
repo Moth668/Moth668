@@ -6,7 +6,7 @@
 - 💞️ I am looking for an emerging professional role in software development
 - 👀 I am interested in Cars, Coding, & Coffee
 - 📫 How to reach me: comment, message, email
-- ⚡ Fun fact: Ants don’t have lungs.
+- ⚡ Fun fact: 92 is half of 99.
 
 - Checkout my portfolio website: [https://timothydavidrice.com/](https://timothydavidrice.com/)
 
